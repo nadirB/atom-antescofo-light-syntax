@@ -9,7 +9,7 @@
     ".asco",
     ".asco.txt"
   ],
-  "repository": "https://github.com/atom/atom-antescofo-light-syntax",
+  "repository": "https://github.com/nadirB/atom-antescofo-light-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

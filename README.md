@@ -7,7 +7,9 @@ Antescofo : http://repmus.ircam.fr/antescofo
 Atom : https://atom.io/
 
 
-This theme works with the Antescofo language package : no official release yet...
+This theme works with the Antescofo language package developped by :
+- Pierre Donat-Bouillud:  https://github.com/programLyrique
+- Clément PGP: https://github.com/ClementPGP
 
 # Install : 
 

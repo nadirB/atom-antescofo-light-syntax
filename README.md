@@ -6,7 +6,7 @@ An Antescofo Theme for Atom Text Editor.
 
 
 
-This theme works with the [atom-antescofo] package found in the [Setting's Install Tab]
+This theme works with the `atom-antescofo` package found in the `Setting's Install Tab`
 
 
 Developped by :
@@ -17,7 +17,7 @@ Developped by :
 
 ## Install
 
-You can install this theme in your [Atom theme settings] (http://flight-manual.atom.io/using-atom/sections/atom-packages).
+You can install this theme in your `Atom theme settings` (http://flight-manual.atom.io/using-atom/sections/atom-packages).
 
 
 ## Usage

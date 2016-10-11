@@ -1,39 +1,36 @@
-# atom-antescofo-light-syntax theme
+# atom-antescofo-light-syntax
 
-Antescofo Light Theme for Atom Text Editor.
+An Antescofo Theme for Atom Text Editor.
 
-Antescofo : http://repmus.ircam.fr/antescofo
-
-Atom : https://atom.io/
+![](https://github.com/nadirB/atom-antescofo-syntax/blob/master/screenshots/atom-antescofo-light-screen-caps.png)
 
 
-This theme works with the Antescofo language package : no official release yet...
 
-# Install : 
+[Antescofo] : http://repmus.ircam.fr/antescofo
 
-- Go to Atom/Settings(preferences)/Install/Theme/  
-- Search for atom-antescofo-light-syntax
-- Click intall
-- Go to Settings/Theme
-- Choose Atom Antescofo Light in the Syntax theme contextual menu
-- Open .asco or .score file
-- Choose Antescofo in the menu at the bottom right of the workspace
 
-# Antescofo File Recognition :
+This theme works with the [atom-antescofo package found in the [install tab]
 
-To customize Atom when loading Antescofo files , you need only manually edit your Atom config.cson file :
 
-- Open it using the Application: Open Your Config command from the Command Palette. 
-- Add this to your configuration file under the *.core section:
+Developped by :
 
-customFileTypes:
-      "source.antescofo": [
-        "asco"
-        "asco.txt"
-        "score"
-        "score.txt"
-      ]
-      
-      
+- Pierre Donat-Bouillud:  https://github.com/programLyrique
+- Clément PGP: https://github.com/ClementPGP
 
-![A screenshot of your theme](https://github.com/nadirB/atom-antescofo-light-syntax/blob/master/atom-antescofo-light-screen-caps.png)
+## Install
+
+You can install this theme in your [Atom theme settings] (http://flight-manual.atom.io/using-atom/sections/atom-packages).
+
+
+## Usage
+
+After installation, you can enable this theme in your [Atom theme settings](http://flight-manual.atom.io/using-atom/sections/atom-packages/#_atom_themes).
+
+
+## Contributing
+
+For any bugs, fill reports with the [generator](https://github.com/nadirB/atom-antescofo-syntax/issues). For shipping a new version, an update warning will appear in Atom's workspace or in Atom's theme settings
+
+## License
+
+[MIT](./LICENSE) &copy; [GitHub](https://github.com/)

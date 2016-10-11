@@ -6,16 +6,14 @@ An Antescofo Theme for Atom Text Editor.
 
 
 
-[Antescofo] : http://repmus.ircam.fr/antescofo
-
-
-This theme works with the [atom-antescofo package found in the [install tab]
+This theme works with the [atom-antescofo] package found in the [Setting's Install Tab]
 
 
 Developped by :
 
-- Pierre Donat-Bouillud:  https://github.com/programLyrique
 - Clément PGP: https://github.com/ClementPGP
+- Pierre Donat-Bouillud:  https://github.com/programLyrique
+
 
 ## Install
 

@@ -6,7 +6,9 @@ An Antescofo Light Theme for Atom Text Editor.
 
 
 
-This theme works with the `atom-antescofo` package found in the `Setting's Install Tab` and developped mainly with :
+
+
+This theme works with the `atom-antescofo` package found in the `Setting's Install Tab` developped mainly by :
 
 - Clément PGP: https://github.com/ClementPGP
 

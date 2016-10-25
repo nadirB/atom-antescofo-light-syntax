@@ -1,18 +1,15 @@
 # atom-antescofo-light-syntax
 
-An Antescofo Theme for Atom Text Editor.
+An Antescofo Light Theme for Atom Text Editor.
 
 ![](https://github.com/nadirB/atom-antescofo-light-syntax/blob/master/screenshots/atom-antescofo-light-screen-caps.png)
 
 
 
-This theme works with the `atom-antescofo` package found in the `Setting's Install Tab`
-
-
-Developped by :
+This theme works with the `atom-antescofo` package found in the `Setting's Install Tab` and developped mainly with :
 
 - Clément PGP: https://github.com/ClementPGP
-- Pierre Donat-Bouillud:  https://github.com/programLyrique
+
 
 
 ## Install

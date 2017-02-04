@@ -11,6 +11,7 @@ An Antescofo Light Theme for Atom Text Editor.
 This theme works with the `atom-antescofo` package found in the `Setting's Install Tab` developped mainly by :
 
 - Clément PGP: https://github.com/ClementPGP
+- Pierre Donat-Bouillud : https://github.com/programLyrique
 
 
 

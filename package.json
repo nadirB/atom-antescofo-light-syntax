@@ -3,7 +3,8 @@
   "theme": "syntax",
   "version": "1.0.9-beta",
   "description": "Antescofo syntax light theme for Atom text editor",
-  "keywords": [
+  "keywords":
+  [
     "syntax",
     "theme",
     ".asco",
@@ -17,13 +18,13 @@
   "package-deps": [
   "atom-antescofo"
   ],
+
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
 
   "dependencies": {
   "atom-package-deps": "*"
-  },
-
+  }
 
 }

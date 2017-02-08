@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/nadirB/atom-antescofo-light-syntax.git"
   },
+  "homepage": "https://github.com/nadirB/atom-antescofo-light-syntax#readme",
   "keywords": [
     "syntax",
     "theme",

@@ -1,7 +1,7 @@
 {
   "name": "atom-antescofo-syntax",
   "theme": "syntax",
-  "version": "1.0.12-beta",
+  "version": "1.0.10-beta",
   "description": "Antescofo syntax light theme for Atom text editor",
   "keywords": [
     "syntax",

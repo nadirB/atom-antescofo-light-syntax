@@ -2,23 +2,20 @@
   "name": "atom-antescofo-light-syntax",
   "description": "Antescofo syntax light theme for Atom text editor",
   "author": "nadir B.",
-  "version": "1.0.10",
+  "version": "1.0.10-beta",
   "license": "MIT",
   "theme": "syntax",
   "main": "index.js",
-    "repository": {
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/nadirB/atom-antescofo-light-syntax.git"
   },
-
-
   "keywords": [
     "syntax",
     "theme",
     ".asco",
     ".asco.txt"
   ],
-
   "devDependencies": {},
   "dependencies": {
     "atom-package-deps": "*"

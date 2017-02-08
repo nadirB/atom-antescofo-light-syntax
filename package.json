@@ -11,7 +11,19 @@
   ],
   "repository": "https://github.com/nadirB/atom-antescofo-light-syntax",
   "license": "MIT",
+  "main": "index.js",
+  "name": "atom-antescofo-syntax",
+  "optionalDependencies": {},
+  "package-deps": [
+  "atom-antescofo"
+  ],
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
-  }
+  },
+
+  "dependencies": {
+  "atom-package-deps": "*"
+  },
+
+
 }

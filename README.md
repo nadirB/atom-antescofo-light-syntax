@@ -18,7 +18,7 @@ This theme works with the `atom-antescofo` package found in the `Setting's Insta
 ## Install
 
 You can install this theme in your `Atom theme settings` (http://flight-manual.atom.io/using-atom/sections/atom-packages).
-
+You need to restart Atom.
 
 ## Usage
 

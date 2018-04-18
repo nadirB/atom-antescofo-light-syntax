@@ -11,9 +11,6 @@ Antescofo : http://repmus.ircam.fr/antescofo
 This theme works with the `atom-antescofo` package found in the `Setting's Install Tab` developped mainly by :
 
 - Clément Poncelet Sanchez: https://github.com/cponcelets
-- Pierre Donat-Bouillud : https://github.com/programLyrique
-
-
 
 ## Install
 

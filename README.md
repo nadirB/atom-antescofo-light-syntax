@@ -10,7 +10,12 @@ Antescofo : http://repmus.ircam.fr/antescofo
 
 This theme works with the `atom-antescofo` package found in the `Setting's Install Tab` developped mainly by :
 
-- Clément Poncelet Sanchez: https://github.com/cponcelets
+
+
+    Clément Poncelet: https://github.com/cponcelets (grammar core)
+
+    Benjamin Levy : http://benjaminnlevy.net/bnl.html#home (osc communication with antescofo)
+
 
 ## Install
 

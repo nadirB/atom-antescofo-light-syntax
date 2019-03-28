@@ -2,9 +2,8 @@
 
 An Antescofo Light Theme for Atom Text Editor.
 
+
 ![](https://github.com/nadirB/atom-antescofo-light-syntax/blob/master/screenshots/atom-antescofo-light-screen-caps.png)
-
-
 
 Antescofo : http://repmus.ircam.fr/antescofo
 

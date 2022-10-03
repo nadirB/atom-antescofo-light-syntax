@@ -7,7 +7,7 @@ An Antescofo Light Theme for Atom Text Editor.
 
 Antescofo : http://repmus.ircam.fr/antescofo
 
-This theme works with the `atom-antescofo` package found in the `Setting's Install Tab` developped mainly by :
+This theme works with the `atom-antescofo` package found in the `Setting's Install Tab` developped mainly with :
 
 
 

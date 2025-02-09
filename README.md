@@ -2,6 +2,7 @@
 
 An Antescofo Light Theme for Atom Text Editor.
 
+This package is deprecated because Atom editor is no longer developed.
 
 ![](https://github.com/nadirB/atom-antescofo-light-syntax/blob/master/screenshots/atom-antescofo-light-screen-caps.png)
 
